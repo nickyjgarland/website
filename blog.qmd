@@ -1,0 +1,29 @@
+---
+title: "Blog"
+subtitle: "Tutorials, insights, and reflections on data science in heritage"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, author, categories, description]
+page-layout: full
+title-block-banner: true
+---
+
+Welcome to my blog! Here I share tutorials, reflections, and insights on data science, digital heritage, and research methods. Topics include:
+
+- **R tutorials** for heritage researchers
+- **Spatial analysis** techniques and workflows
+- **Research data management** best practices
+- **Open Science** and reproducible research
+- **Teaching** reflections and pedagogical approaches
+- **Digital archaeology** methods and tools
+
+---
+
+## Subscribe
+
+Want to stay updated? [{{< fa envelope >}} Email me](mailto:nickyjgarland@gmail.com) to be notified of new posts, or follow me on [{{< fa brands github >}} GitHub](https://github.com/nickyjgarland) for code updates.

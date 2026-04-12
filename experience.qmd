@@ -1,0 +1,129 @@
+---
+title: "Work Experience"
+---
+
+## Current Positions
+
+### Training and Communications Manager
+**Archaeology Data Service, University of York**  
+*October 2022 – Present*
+
+- Oversee strategic development and delivery of external training programmes
+- Manage all communication activities and channels for the organisation
+- Line manage Training and Communications team, providing leadership and professional development
+- Work collaboratively across ADS to integrate training with data stewardship services
+- Lead/Representative for ADS on EU funded research projects (ATRIUM, ECHOES, ARTEMIS)
+- Support adoption of best practice in research data management across heritage communities
+
+**Key Achievements:**
+
+- Developed comprehensive training strategy for digital archaeology
+- Built training portal infrastructure using modern web technologies
+- Established partnerships with heritage sector organisations
+- Increased visibility and engagement through strategic communications
+
+### Training and Communications Manager
+**Heritage Science Data Service, University of York**  
+*September 2023 – Present*
+
+- Lead strategic development for newly established Heritage Science Data Service
+- Build training and communications infrastructure for heritage science communities
+- Establish new audiences and partnerships within heritage science sector
+- Ensure alignment with partner organisations and researcher needs
+
+---
+
+## Prior Positions
+
+### Post Doctoral Research Associate
+**Department of Archaeology, Durham University**  
+*March 2020 – October 2022*
+
+**Project**: Monumentality and Landscape: Linear Earthworks in Britain
+
+**Responsibilities:**
+
+- Database development: PostgreSQL + PostGIS database design and population
+- Spatial analysis: Using Least Cost Path analysis to assess mobility across earthworks and landscape
+- Lecturer for undergraduate courses: Becoming Roman (ARCH2091) and Archaeology in Britain (ARCH1071)
+
+**Key Outputs:**
+
+- Comprehensive database of British linear earthworks
+- Advanced spatial analysis models (least cost path) for understanding ancient mobility using High performance computing (HPC)
+- Conference presentations on earthwork research
+
+### Associate Lecturer
+**School of History, Classics and Archaeology, Newcastle University**  
+*September 2018 – June 2024*
+
+- Lecturer on Prehistoric Britain (ARA1028)
+- Lecturer on Fieldwork and Archaeological Practice (ARA2012)
+- GIS instruction for undergraduate students
+
+**Teaching Evaluations:**
+
+- ARA1028: 4.4 out of 5 – "Interesting and engaging"
+- ARA2012: 4.1 out of 5 – "Very helpful"
+
+### Research Associate
+**School of History, Classics and Archaeology, Newcastle University**  
+*October 2017 – March 2020*
+
+**Project**: Hadrian's Wall Community Archaeology Project (NHLF funded)
+
+**Responsibilities:**
+
+- Researcher/spatial analyst including GIS database design and population
+- Teaching community volunteers and undergraduate students in:
+  - Digital recording (GNSS, Total Station, Laser Scanning, Structure from Motion)
+  - Research and database skills
+  - Archaeological methodologies
+
+### Lecturer (Fixed Term)
+**Department of Archaeology, Durham University**  
+*May 2016 – September 2017*
+
+- Delivered lectures on European Iron Age to 50+ undergraduate students
+- Taught Discovering World Prehistory (ARCH1121)
+
+### Senior Publications Officer / Publications Officer
+**Cotswold Archaeology**  
+*January 2016 – October 2017*
+
+**Project**: 'Exeter: A Place in Time' (AHRC/Historic England funded)
+
+- Researcher/contributing author for two-volume monograph
+- Trained colleagues in research skills and writing techniques
+- Managed post-excavation projects
+- Wrote and edited grey literature reports and publication texts
+
+### Research Associate
+**Archaeology and Ancient History, University of Leicester**  
+*January 2017 – March 2017*
+
+**Project**: Crisis or Continuity: Hoarding in Iron Age and Roman Britain (AHRC funded)
+
+- Edited project monograph including research and reference checking
+- Prepared table/figure lists and final bibliography
+- Liaised with project members to complete publication to deadline
+
+### Freelance Archaeologist
+**Self-employed**  
+*July 2015 – December 2015*
+
+- Operated as archaeological consultant
+- Provided expert planning advice to clients
+- Undertook archival research and GIS analysis
+- Map regression and desk-based assessments
+
+### Archaeological Consultant
+**Heritage Collective**  
+*September 2012 – July 2015*
+
+- Conducted archaeological assessments and evaluations
+- Managed excavation projects
+- Produced technical reports and publications
+- Client liaison and project management
+
+---

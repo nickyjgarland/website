@@ -1,0 +1,51 @@
+---
+title: "About"
+---
+
+## Research Interests
+
+My research interests examine European Iron Age and Roman Archaeology through the lens of spatial analysis, social theory, and digital methods. I use geospatial statistics and databases to explore archaeological data and visualise theoretical perspectives in meaningful ways, with particular focus on:
+
+- Landscape transformation and settlement patterns
+- Territorial Oppida in Britain
+- Linear earthwork systems
+- Spatial analysis and GIS applications in archaeology
+- Digital heritage and research data management
+
+I am committed to sustainable, reproducible research practices and the application of Open Research principles to archaeological scholarship.
+
+## Technical Expertise
+
+My technical expertise spans research data management, digital research infrastructure, and computational analysis across the heritage and archaeology sectors. I have hands-on experience with:
+
+### Programming & Data Analysis
+- **R**: Statistical analysis, data visualization, automation, spatial analysis
+- **SQL**: PostgreSQL database design and population, PostGIS for spatial databases
+- **QGIS & ArcGIS**: Spatial analysis, cartography, landscape modeling
+- **Least Cost Path Analysis**: Mobility and accessibility studies
+
+### Research Infrastructure
+- **Version Control**: Git, GitHub for collaborative research
+- **Documentation**: Jupyter Notebooks, MkDocs, Quarto
+- **Data Management**: FAIR data principles, metadata standards
+- **Web Development**: Creating training portals and knowledge-sharing platforms
+
+## Education
+
+**PhD in Archaeology** (Part-time)  
+University College London, 2009-2017  
+*Thesis*: [Territorial Oppida and the transformation of landscape and society in south-eastern Britain from BC 300 to 100 AD](https://tinyurl.com/phd-thesis-njg)  
+*Supervisors*: Prof Sue Hamilton, Prof Andrew Gardner  
+
+**MA (Merit) in Practical Archaeology**  
+University of Birmingham, 2004-2005
+
+**BA (Honours) in History and Archaeological Studies**  
+University of Kent, 2001-2004
+
+## Professional Development
+
+- **Certified Carpentries Instructor**: Teaching foundational coding and data science skills
+- **Research Data Management**: Extensive training in FAIR principles and Open Science
+- **Leadership**: Line management and team development experience
+- **EU Projects**: Active participation in international research consortia

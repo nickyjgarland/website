@@ -1,0 +1,185 @@
+/* Custom styling for Nicky Garland's website */
+
+/* Profile image styling */
+.profile-img {
+  border-radius: 50%;
+  border: 4px solid #2C7FB8;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Enhanced grid styling */
+.grid {
+  display: grid;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+/* Card-like styling for content sections */
+.callout-note {
+  border-left: 4px solid #2C7FB8;
+  background-color: #f8f9fa;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+}
+
+/* Skill badges */
+.skill-badge {
+  display: inline-block;
+  background-color: #2C7FB8;
+  color: white;
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+  margin: 0.2rem;
+  font-size: 0.9rem;
+}
+
+/* Custom code block styling */
+pre {
+  background-color: #f5f5f5;
+  border-left: 4px solid #2C7FB8;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+/* Link styling */
+a {
+  color: #2C7FB8;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #1a4d78;
+  text-decoration: underline;
+}
+
+/* Header styling */
+h1, h2, h3 {
+  color: #2d3748;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Improve table styling */
+table {
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: #2C7FB8;
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+tr:hover {
+  background-color: #f7fafc;
+}
+
+/* Navbar customization */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Footer styling */
+.page-footer {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e2e8f0;
+}
+
+/* Icon styling */
+.fa, .ai {
+  margin-right: 0.3rem;
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Panel tabset styling */
+.panel-tabset {
+  margin: 1.5rem 0;
+}
+
+/* Quote/blockquote styling */
+blockquote {
+  border-left: 4px solid #2C7FB8;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #4a5568;
+}
+
+/* Timeline styling for experience page */
+.timeline-item {
+  position: relative;
+  padding-left: 2rem;
+  margin-bottom: 2rem;
+  border-left: 2px solid #2C7FB8;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 0;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #2C7FB8;
+}
+
+/* Button styling */
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: #2C7FB8;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.btn:hover {
+  background-color: #1a4d78;
+  text-decoration: none;
+  color: white;
+}
+
+/* Improve spacing */
+.column-page {
+  padding: 1rem 0;
+}
+
+/* Print-friendly styling */
+@media print {
+  .navbar, .page-footer {
+    display: none;
+  }
+  
+  a {
+    color: black;
+    text-decoration: underline;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr !important;
+  }
+  
+  .profile-img {
+    width: 150px !important;
+  }
+}

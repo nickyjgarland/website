@@ -1,0 +1,99 @@
+---
+title: "Teaching & Training"
+---
+
+## Philosophy
+
+I believe that everyone can learn to code and work with data. My teaching approach emphasizes:
+
+- **Hands-on learning**: Practice with real datasets and authentic research problems
+- **Reproducible workflows**: Building sustainable research practices from the start
+- **Inclusive pedagogy**: Supporting learners at all levels
+- **Open resources**: Sharing knowledge and resources freely
+
+---
+
+## The Carpentries
+
+I'm a certified [Carpentries](https://carpentries.org/) instructor, teaching foundational coding and data science skills to researchers worldwide. I am also a Carpentries lesson maintainer on the Library Carpentry [Intro to R lesson](https://github.com/LibraryCarpentry/lc-r) and a member of the [Library Carpentry Governance Committee](https://librarycarpentry.org/about-us/governance/).
+
+### What is The Carpentries?
+
+The Carpentries teaches essential data and computational skills for conducting efficient, reproducible research. As an instructor, I deliver workshops on the R programming language, Open Research and Data Management Skills.
+
+---
+
+## Training Portfolio
+
+### Archaeology Data Service Training
+
+As Training and Communications Manager, I lead the development and delivery of training programmes covering:
+
+#### Research Data Management
+- FAIR principles for archaeological data
+- Metadata standards and best practices
+- Data archiving and preservation
+- Digital curation workflows
+
+#### Technical Skills
+- Introduction to R for archaeologists
+- Spatial analysis with QGIS
+- Database design for heritage projects
+- Version control with Git/GitHub
+
+#### Open Research
+- Reproducible research practices
+- Open access publishing
+- Data sharing and licensing
+- Collaborative research tools
+
+### University Teaching
+
+#### Durham University (2020-2022)
+- **ARCH2091: Becoming Roman** - Undergraduate course on Roman archaeology
+- **ARCH1071: Archaeology in Britain** - Introduction to British archaeology
+
+#### Newcastle University (2017-2024)
+- **ARA1028: Prehistoric Britain** - Survey of British prehistory
+- **ARA2012: Fieldwork and Archaeological Practice** - Including GIS instruction
+- **Digital Recording Technologies** - GNSS, Total Station, Laser Scanning, Structure from Motion
+
+#### Community & Volunteer Training
+- Hadrian's Wall Community Archaeology Project
+- Training community volunteers in research methods and field methods
+- Digital recording skills workshops
+- Database and documentation training
+
+---
+
+## Custom Training
+
+I'm available to develop and deliver bespoke training for:
+
+- Heritage organizations
+- Research groups and departments
+- Archaeological consultancies
+- Museums and archives
+- Research data services
+
+**Topics can be tailored to include:**
+
+- Your specific datasets and workflows
+- Integration with existing tools and systems
+- Discipline-specific examples and case studies
+- Follow-up support and consultation
+- Carpentries workshops
+
+---
+
+## Get Training
+
+Interested in a workshop or training programme?
+
+[{{< fa envelope >}} Contact me](mailto:nickyjgarland@gmail.com) to discuss:
+
+- Workshop topics and learning objectives
+- Audience size and skill level
+- Format (in-person, online, hybrid)
+- Duration and scheduling
+- Custom curriculum development

@@ -1,0 +1,180 @@
+---
+title: "Publications"
+---
+
+## Peer-Reviewed Publications
+
+### 2025
+
+Garland, N. (2025). From Preservation to Action: How the ADS is Bridging the Data Reuse Gap. Theoretical Archaeology Group meeting (TAG), York, UK. Zenodo. <https://doi.org/10.5281/zenodo.17939678>
+
+Garland, N., Green, K., Foster, O. and O'Brien, J. (2025) The ADS Archiving Workflow. Archaeology Data Service, University of York. <http://www.doi.org/10.5284/8qes-6g82>
+
+Garland, N. (2025). OASIS Explained: Your Guide to the UK's Historic Environment Investigation Database. Information Management SIG online DigITea talk session, Online. Zenodo. <https://doi.org/10.5281/zenodo.15830841>
+
+Garland, N., Niven, K., Evans, T., Gillespie, S., Sharan, M., Bennett, A., & Demertzi, L. (2025). Archaeology Data Service: Transforming the Accessibility and (Re-)Usability of Archaeological Training Resources. Zenodo. <https://doi.org/10.5281/zenodo.15068950>
+
+### 2023
+
+Garland, N., (2023) “Experimental and Experiential approaches to the past – Reconstructing and understanding Roman domesticity through recreated places”, Theoretical Roman Archaeology Journal 6(1). doi: <https://doi.org/10.16995/traj.9548>
+
+Moore T., Reynolds A., Garland N., Harris B. (2023) “Crossing Crawford’s conceptual divide: monumental linear earthworks in later prehistoric and early medieval Britain”. Antiquity. 97(395):1212-1232. doi: <https://doi.org/10.15184/aqy.2023.117>
+
+Garland, N. (2023). Are atypical archives FAIR? Exploring Reuse in non-traditional digital archives. CIfA2023 Sustainable futures – standards, skills and the profession (CIfA conference), Nottingham. Zenodo. <https://doi.org/10.5281/zenodo.7837484>
+
+### 2022
+
+Garland, N. (2022). ‘Magical Places: An Archaeological exploration of Magic and Time at Stanway, Essex’. Preternature: Critical and Historical Studies on the Preternatural. 11(1), 151-177. <https://doi.org/10.5325/preternature.11.1.0151>
+
+### 2021
+
+Garland, N., Harris, B., Moore, T. and Reynolds, A. (2021). ‘Exploring Linear Earthworks across Time and Space - Introducing the Monumentality and Landscape: Linear Earthworks in Britain project. Offa’s Dyke Journal 3, 129-150. <http://revistas.jasarqueologia.es/index.php/odjournal/article/view/316>
+
+Garland, N. (2021). TRAC at 30: A Bibliometric Analysis of the TRAC Community. Theoretical Roman Archaeology Journal, 4(1): 1, pp. 1–37. DOI: <https://doi.org/10.16995/traj.4344>
+
+Garland, N., Allan, J. and Holbrook, N. (2021). ‘Excavations at Trichay Street and Pancras Lane 1972-3’. In Rippon, S. and Holbrook, N. (eds). Studies in the Roman and Medieval Archaeology of Exeter (Exeter: A Place in Time, volume 2). Oxford: Oxbow Books.
+
+Garland, N., Allan, J. and Holbrook, N. (2021). ‘Excavations at 197 High Street 1972-3’. In Rippon, S. and Holbrook, N. (eds). Studies in the Roman and Medieval Archaeology of Exeter (Exeter: A Place in Time, volume 2). Oxford: Oxbow Books.
+
+Garland, N., Allan, J. and Holbrook, N. (2021). Excavations at Rack Street Excavations 1974-5 and 1977-8’. In Rippon, S. and Holbrook, N. (eds). Studies in the Roman and Medieval Archaeology of Exeter (Exeter: A Place in Time, volume 2). Oxford: Oxbow Books.
+
+### 2020
+
+Bland, R., Chadwick, A., Ghey, E., Haselgrove, C. and Mattingly, M. with contributions by Garland, N., (2020). Iron Age and Roman Coin Hoards in Britain. Oxford: Oxbow Books.
+
+Garland, N. (2020) ‘Archaeological Investigation south of the Pinn Brook, Redhayes, Exeter, Devon’, Proceedings of the Devon Archaeological Society, vol 77, 103-145.
+
+Garland, N. (2020). The Origins of British Oppida: Understanding Transformation in Iron Age Practice and Society. Oxford Journal of Archaeology 39(1), 107-125. <https://doi.org/10.1111/ojoa.12184>
+
+### 2019
+
+Garland, N., Banks, P. and Stansbie, D. (2019). ‘A later prehistoric landscape at Sandy Lane, Northampton’. Northamptonshire Archaeology, 40, 77-86.
+
+Garland, N. (2019). Aldermaston Road Triangle. Proceedings of the Hampshire Field Club Archaeological Society 74, 179–180. Hampshire Studies 2019.
+
+Garland, N., et. al. (2019). ‘The Excavations’. In Johnston, P. and Kiely, J. (eds) Hidden Voices: The Archaeology of the M8 Fermoy-Mitchelstown Motorway. Transport Infrastructure Ireland Heritage 7, Dublin.
+
+Garland, N. (2019). ’The Iron Age in the Wall corridor’. In Collins, R. and Symonds, M. (eds.) Hadrian’s Wall 2009-2019: A Summary of Excavation and Research prepared for The Fourteenth Pilgrimage of Hadrian’s Wall, 20-28 July 2019. Cumberland and Westmorland Antiquarian and Archaeological Society and the Society of Antiquaries of Newcastle upon Tyne, Kendal, 19-26.
+
+Garland, N. (2019). Review of ‘Late Iron Age Calleva: The pre-conquest occupation at Silchester Insula IX. Silchester Roman Town: The Insula IX Project volume 3 by Michael Fulford, Amanda Clarke, Emma Durham and Nicholas Pankhurst.’ Proceedings of the Prehistoric Society. \[ONLINE\] Available at: <https://prehistoricsociety.org/publications/book-reviews/3772>
+
+Garland, N., and Marsden, K. (2019). ‘A Summary Report of Excavations at St Mary’s Primary School, Marlborough, Wiltshire’. Wiltshire Archaeological and Natural History Magazine, 112, 27-36.
+
+### 2018
+
+Garland, N., and Stansbie, D. (2018). 'Excavation of Late Iron Age and Roman enclosures and Medieval to Post-medieval features at Highfield Farm, Gloucestershire, 2015 and 2016', *Transactions of the Bristol and Gloucestershire Archaeological Society* 136, 83-89.
+
+Garland, N. (2018). 'Romano-British occupation at the Catthorpe Interchange, M1 Junction 19, Leicestershire', *Transactions of the Leicestershire Archaeological and Historical Society*, 92, 239-248.
+
+Garland, N. (2018). Rethinking the dichotomy: 'Romans' and 'barbarians'. *Antiquity*, 92 (362), 538-540. <https://doi.org/10.15184/aqy.2018.23>
+
+Garland, N. (2018). 'Linking Magic and Medicine in Early Roman Britain: The 'Doctor's' Burial, Stanway, Camulodunum' In Parker, A. and McKie, S. (eds) *The Materiality of Roman Magic: Theories, Approaches and Material Culture*. TRAC Themes in Roman Archaeology vol 2. Oxford: Oxbow Books, 85-102. <http://dx.doi.org/10.2307/j.ctvh1dnfj.11>
+
+### 2017
+
+Sausins, D. with contributions by Garland, N. (2017). 'Summary Results of an Excavation at Manor Farm, Urchfont, Wiltshire, 2014', *Wiltshire Archaeol. Natur. Hist. Mag.* 110, 115-22
+
+Leonard, C., Garland, N., McSloy, E.R. and Cobain, S. 2017. 'Summary results of an excavation at former Headlands School, Swindon, 2014', *Wiltshire Archaeological and Natural History Society Magazine*, 110, 233-7
+
+### 2016
+
+Garland, N. and Anderson-Whymark, H. (2016). Mesolithic and late Neolithic/Bronze Age activity on the site of the American Express Community Stadium, Falmer, East Sussex. *Sussex Archaeological Collections* vol 154, 1-44
+
+Garland, N. (2016). 'New perspectives on British territorial oppida: the examination of Iron Age landscapes in time and space.' In: Erskine, G., Jacobsson, P., Miller, P. and Stetkiewicz, S. (eds) *Proceedings of the 17th Iron Age Research Student Symposium*, Edinburgh 29th May - 1st June 2014. Archaeopress: Access Archaeology, 108-119
+
+Garland, N. (2016). 'Agency, Structure, and Place: Finds in the Landscape in the Late Iron Age / Early Roman Transition.' In: Mandich, M., Derrick, T.J., Gonzalez Sanchez, S. Savani, G. & Zampieri, E. (eds) *TRAC 2015: Proceedings of the Twenty-Fifth Annual Theoretical Roman Archaeology Conference*, Leicester 2015. Oxford: Oxbow Books, 76-91
+
+### 2015
+
+Garland, N., Davenport, P. and Holt, R. (2015). 'Archaeological Investigations at Llanthony Secunda Priory, Gloucester, 2014', *Glevensis* 48, 35-41
+
+Doherty, A. and Garland, N. (2015). Archaeological investigations of the Devil's Ditch at Windmill Park, Stane Street, Halnaker, West Sussex. *Sussex Archaeological Collections* vol 153, 41-46
+
+### 2013
+
+Garland, N. (2013). 'Ritual Landscapes of Pre-Roman Britain: The Margins of Practice on the Margins of the Empire'. In A. Bokern, M. Bolder-Boos, S. Krmnicek, D. Maschek and S. Page (eds) *TRAC 2012: Proceedings of the 22nd Annual Theoretical Roman Archaeology Conference*. Oxford: Oxbow Books, 183-198
+
+### 2012
+
+Garland, N. (2012). 'Boundaries and Change: The Examination of the Late Iron Age –Roman Transition', In M. Duggan, F. McIntosh and D.J. Rohl (eds.). *TRAC 2011: Proceedings of the 21st Annual Theoretical Roman Archaeology Conference*. Oxford: Oxbow Books, 91-104
+
+------------------------------------------------------------------------
+
+## PhD Thesis
+
+Garland, N. (2017). *Territorial Oppida and the transformation of landscape and society in south-eastern Britain from BC 300 to 100 AD*. PhD Thesis, University College London.
+
+Supervisors: Prof Sue Hamilton, Prof Andrew Gardner
+
+[{{< fa file-pdf >}} Download Thesis](https://tinyurl.com/phd-thesis-njg)
+
+**Keywords**: landscape archaeology, GIS, Oppida, Late Iron Age, Britain
+
+**Abstract**: This thesis examines the development of territorial oppida in south-eastern Britain during the Late Iron Age, focusing on how these large-scale enclosed settlements transformed both the physical landscape and social organization of the period. Using a combination of GIS analysis, social theory, and archaeological evidence, the research demonstrates how these sites were integral to broader processes of social and political change in the period leading up to the Roman conquest.
+
+------------------------------------------------------------------------
+
+## Selected Conference Presentations
+
+### 2025
+
+**Garland, N.** 'From Preservation to Action: How the ADS is Bridging the Data Reuse Gap'. Theoretical Archaeology Group Conference. York, UK – December 2025.
+
+**Garland, N.** 'Opportunities and tools from the Cultural Heritage Cloud'. AHC-CCP Engagement Event. Edinburgh, UK – November 2025.
+
+**Garland, N.** 'The Archaeology Data Service'. UKRI DRI Congress. Leeds, UK – October 2025.
+
+**Garland, N.** 'OASIS Explained: Your Guide to the UK's Historic Environment Investigation Database'. CIfA Information Management SIG - DigiTea Talks. Online – July 2025.
+
+### 2023
+
+**Garland, N.** 'Data reuse, digital literacy and the Archaeology Data Service'. Newcastle University Spatial Humanities Group Seminar, Newcastle, UK – October 2023.
+
+**Garland, N.** 'The Archaeology Data Service: enhancing digital skills for archaeologists'. Digital Skills in Visual and Material Culture seminar. London, UK – June 2023.
+
+**Garland, N.** 'Are atypical archives FAIR? Exploring Reuse in non-traditional digital archives'. Chartered Institute for Archaeologists (CIfA) Conference – Nottingham, UK – May 2023.
+
+**Garland, N.** 'Open science, data reuse, and Roman archaeology'. Theoretical Roman Archaeology Conference (TRAC) - University of Exeter (Online, video presentation) – April 2023.
+
+**Garland, N.** 'Data reuse, digital literacy and the Roman Rural Settlement Project'. Theoretical Roman Archaeology Conference Webinar Series – Online - March 2023.
+
+### 2021
+
+**Garland, N.** 'Barriers or Passages? Reinterpreting movement, time and linear earthworks in Iron Age Britain'. Theoretical Archaeology Group Conference - December 2021
+
+**Garland, N.** 'Exploring Linear Earthworks across Time and Space - Introducing the Monumentality and Landscape: Linear Earthworks in Britain project'. Landscapes of Complex Societies Research and Impact Group Seminar. Durham University - December 2021.
+
+### 2019
+
+**Garland, N.** Co-organizer (with Dr. Giacomo Savani and Adam Parker) for session entitled 'Sensory Archaeology across Space and Time' for the Theoretical Archaeology Group Conference, UCL, London – 17th December 2019
+
+**Garland, N.** 'Crafting Iron Age Identity: Exploring the social practices of coin production in Late Iron Age Britain'. Paper presented at the Later Prehistoric Finds Group Conference: Crafting Identities: Making and using objects in the Bronze and Iron Ages, National Museum of Scotland, Edinburgh – 26th October 2019
+
+**Garland, N.** 'Hadrian's Wall Community Archaeology Project: the story so far!' Paper presented at the Romans in the North conference, Eboracum Roman Festival, York – 31st May 2019
+
+### 2018
+
+Landscape Archaeology Conference 2018, Newcastle and Durham, UK, conference supporting committee member
+
+**Garland, N.** 'Memory and Movement in Ritual Spaces: The Late Iron Age to Early Roman Transition in Southern Britain'. Roman Archaeology Research Seminar, Newcastle University, 13th November 2018
+
+**Garland, N.** 'Territorial Oppida and the transformation of landscape and society in Iron Age Britain'. Archaeology Research Seminar, Newcastle University, 1st November 2018
+
+**Garland, N.** 'Exploring Mobility and Directionality at Late Iron Age Oppida'. Paper presented at the 'Markers and Mobilities' session. Landscape Archaeology Conference - Newcastle/Durham - 20th September 2018
+
+**Garland, N.** 'Examining social, physical and temporal scale in Iron Age and Roman Britain'. Paper presented at the 'On Site, Between Sites' session. European Association of Archaeologists Conference - Barcelona - 8th September 2018
+
+**Garland, N.** 'Movement and Performance in Iron Age and Roman Southern Britain'. Paper presented at the 'Boundaries and Regions in Iron Age and Romano-Celtic Religions' session. European Association of Archaeologists Conference - Barcelona - 7th September 2018
+
+**Garland, N.** 'Agency and the Scale of Social Memory along the southern coast of Britannia'. Paper presented at the Theoretical Roman Archaeology Conference - Edinburgh – 14th April 2018
+
+------------------------------------------------------------------------
+
+## Research Profiles
+
+-   [{{< ai orcid >}} ORCID](https://orcid.org/0000-0002-6789-0779)
+-   [{{< ai google-scholar >}} Google Scholar](https://scholar.google.co.uk/citations?user=jreSyccAAAAJ&hl=en)
+-   [{{< fa brands github >}} GitHub](https://github.com/nickyjgarland)
+
+------------------------------------------------------------------------
+

@@ -1,0 +1,94 @@
+/*-- scss:defaults --*/
+
+// Custom color scheme based on archaeology/heritage theme
+$primary: #2C7FB8;
+$secondary: #7FCDBB;
+$success: #41AB5D;
+$info: #6BAED6;
+$warning: #FD8D3C;
+$danger: #E6550D;
+
+// Typography
+$font-family-sans-serif: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headings-font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-size-base: 1.05rem;
+$headings-font-weight: 600;
+
+// Links
+$link-color: $primary;
+$link-hover-color: darken($primary, 15%);
+
+// Navbar
+$navbar-bg: $primary;
+$navbar-fg: white;
+
+/*-- scss:rules --*/
+
+// Enhanced heading styles
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: $headings-font-weight;
+}
+
+// Code blocks with archaeological theme
+pre {
+  border-left: 4px solid $primary;
+  background-color: #f8f9fa;
+}
+
+// Enhanced blockquotes
+blockquote {
+  border-left: 4px solid $primary;
+  padding: 0.5rem 1rem;
+  background-color: #f8f9fa;
+  font-style: italic;
+}
+
+// Table styling
+.table {
+  border-collapse: collapse;
+  
+  th {
+    background-color: $primary;
+    color: white;
+    font-weight: 600;
+  }
+  
+  tbody tr:hover {
+    background-color: rgba($primary, 0.05);
+  }
+}
+
+// Card components
+.card {
+  border: 1px solid rgba($primary, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s;
+  
+  &:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// Callout boxes
+.callout {
+  border-left-width: 4px;
+  border-left-color: $primary;
+}
+
+.callout-note {
+  border-left-color: $info;
+}
+
+.callout-tip {
+  border-left-color: $success;
+}
+
+.callout-warning {
+  border-left-color: $warning;
+}
+
+.callout-important {
+  border-left-color: $danger;
+}

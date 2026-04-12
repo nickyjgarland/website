@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nicky Garland"
+  description: "Archaeologist | Data Scientist | Training & Communications Manager"
+  site-url: https://nickyjgarland.github.io/website
+  repo-url: https://github.com/nickyjgarland/website
+  repo-actions: [issue]
+  
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Experience"
+        href: experience.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Publications"
+        href: publications.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/nickyjgarland
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:nickyjgarland@gmail.com
+        aria-label: Email
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-6789-0779
+        aria-label: ORCID
+
+  page-footer:
+    left: "© 2026 Dr Nicky Garland"
+    right:
+      - icon: github
+        href: https://github.com/nickyjgarland
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nicky-garland-a2352a254/
+    background: light
+    border: true
+
+format:
+  html:
+    theme: 
+      light: [flatly, custom.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: false
+    code-copy: true
+    link-external-newwindow: true
+    link-external-icon: true
+
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+  message: false
