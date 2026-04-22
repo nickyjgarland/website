@@ -114,59 +114,95 @@ Supervisors: Prof Sue Hamilton, Prof Andrew Gardner
 
 ------------------------------------------------------------------------
 
-## Selected Conference Presentations
+## Conference Presentations
 
 ### 2025
 
-**Garland, N.** 'From Preservation to Action: How the ADS is Bridging the Data Reuse Gap'. Theoretical Archaeology Group Conference. York, UK – December 2025.
+'From Preservation to Action: How the ADS is Bridging the Data Reuse Gap'. Theoretical Archaeology Group Conference. York, UK – December 2025.
 
-**Garland, N.** 'Opportunities and tools from the Cultural Heritage Cloud'. AHC-CCP Engagement Event. Edinburgh, UK – November 2025.
+'Opportunities and tools from the Cultural Heritage Cloud'. AHC-CCP Engagement Event. Edinburgh, UK – November 2025.
 
-**Garland, N.** 'The Archaeology Data Service'. UKRI DRI Congress. Leeds, UK – October 2025.
+'The Archaeology Data Service'. UKRI DRI Congress. Leeds, UK – October 2025.
 
-**Garland, N.** 'OASIS Explained: Your Guide to the UK's Historic Environment Investigation Database'. CIfA Information Management SIG - DigiTea Talks. Online – July 2025.
+'OASIS Explained: Your Guide to the UK's Historic Environment Investigation Database'. CIfA Information Management SIG - DigiTea Talks. Online – July 2025.
 
 ### 2023
 
-**Garland, N.** 'Data reuse, digital literacy and the Archaeology Data Service'. Newcastle University Spatial Humanities Group Seminar, Newcastle, UK – October 2023.
+'Data reuse, digital literacy and the Archaeology Data Service'. Newcastle University Spatial Humanities Group Seminar, Newcastle, UK – October 2023.
 
-**Garland, N.** 'The Archaeology Data Service: enhancing digital skills for archaeologists'. Digital Skills in Visual and Material Culture seminar. London, UK – June 2023.
+'The Archaeology Data Service: enhancing digital skills for archaeologists'. Digital Skills in Visual and Material Culture seminar. London, UK – June 2023.
 
-**Garland, N.** 'Are atypical archives FAIR? Exploring Reuse in non-traditional digital archives'. Chartered Institute for Archaeologists (CIfA) Conference – Nottingham, UK – May 2023.
+'Are atypical archives FAIR? Exploring Reuse in non-traditional digital archives'. Chartered Institute for Archaeologists (CIfA) Conference – Nottingham, UK – May 2023.
 
-**Garland, N.** 'Open science, data reuse, and Roman archaeology'. Theoretical Roman Archaeology Conference (TRAC) - University of Exeter (Online, video presentation) – April 2023.
+'Open science, data reuse, and Roman archaeology'. Theoretical Roman Archaeology Conference (TRAC) - University of Exeter (Online, video presentation) – April 2023.
 
-**Garland, N.** 'Data reuse, digital literacy and the Roman Rural Settlement Project'. Theoretical Roman Archaeology Conference Webinar Series – Online - March 2023.
+'Data reuse, digital literacy and the Roman Rural Settlement Project'. Theoretical Roman Archaeology Conference Webinar Series – Online - March 2023.
 
 ### 2021
 
-**Garland, N.** 'Barriers or Passages? Reinterpreting movement, time and linear earthworks in Iron Age Britain'. Theoretical Archaeology Group Conference - December 2021
+'Barriers or Passages? Reinterpreting movement, time and linear earthworks in Iron Age Britain'. Theoretical Archaeology Group Conference - December 2021
 
-**Garland, N.** 'Exploring Linear Earthworks across Time and Space - Introducing the Monumentality and Landscape: Linear Earthworks in Britain project'. Landscapes of Complex Societies Research and Impact Group Seminar. Durham University - December 2021.
+'Exploring Linear Earthworks across Time and Space - Introducing the Monumentality and Landscape: Linear Earthworks in Britain project'. Landscapes of Complex Societies Research and Impact Group Seminar. Durham University - December 2021.
 
 ### 2019
 
-**Garland, N.** Co-organizer (with Dr. Giacomo Savani and Adam Parker) for session entitled 'Sensory Archaeology across Space and Time' for the Theoretical Archaeology Group Conference, UCL, London – 17th December 2019
+Co-organizer (with Dr. Giacomo Savani and Adam Parker) for session entitled 'Sensory Archaeology across Space and Time' for the Theoretical Archaeology Group Conference, UCL, London – 17th December 2019
 
-**Garland, N.** 'Crafting Iron Age Identity: Exploring the social practices of coin production in Late Iron Age Britain'. Paper presented at the Later Prehistoric Finds Group Conference: Crafting Identities: Making and using objects in the Bronze and Iron Ages, National Museum of Scotland, Edinburgh – 26th October 2019
+'Crafting Iron Age Identity: Exploring the social practices of coin production in Late Iron Age Britain'. Paper presented at the Later Prehistoric Finds Group Conference: Crafting Identities: Making and using objects in the Bronze and Iron Ages, National Museum of Scotland, Edinburgh – 26th October 2019
 
-**Garland, N.** 'Hadrian's Wall Community Archaeology Project: the story so far!' Paper presented at the Romans in the North conference, Eboracum Roman Festival, York – 31st May 2019
+'Hadrian's Wall Community Archaeology Project: the story so far!' Paper presented at the Romans in the North conference, Eboracum Roman Festival, York – 31st May 2019
 
 ### 2018
 
 Landscape Archaeology Conference 2018, Newcastle and Durham, UK, conference supporting committee member
 
-**Garland, N.** 'Memory and Movement in Ritual Spaces: The Late Iron Age to Early Roman Transition in Southern Britain'. Roman Archaeology Research Seminar, Newcastle University, 13th November 2018
+'Memory and Movement in Ritual Spaces: The Late Iron Age to Early Roman Transition in Southern Britain'. Roman Archaeology Research Seminar, Newcastle University, 13th November 2018
 
-**Garland, N.** 'Territorial Oppida and the transformation of landscape and society in Iron Age Britain'. Archaeology Research Seminar, Newcastle University, 1st November 2018
+'Territorial Oppida and the transformation of landscape and society in Iron Age Britain'. Archaeology Research Seminar, Newcastle University, 1st November 2018
 
-**Garland, N.** 'Exploring Mobility and Directionality at Late Iron Age Oppida'. Paper presented at the 'Markers and Mobilities' session. Landscape Archaeology Conference - Newcastle/Durham - 20th September 2018
+'Exploring Mobility and Directionality at Late Iron Age Oppida'. Paper presented at the 'Markers and Mobilities' session. Landscape Archaeology Conference - Newcastle/Durham - 20th September 2018
 
-**Garland, N.** 'Examining social, physical and temporal scale in Iron Age and Roman Britain'. Paper presented at the 'On Site, Between Sites' session. European Association of Archaeologists Conference - Barcelona - 8th September 2018
+'Examining social, physical and temporal scale in Iron Age and Roman Britain'. Paper presented at the 'On Site, Between Sites' session. European Association of Archaeologists Conference - Barcelona - 8th September 2018
 
-**Garland, N.** 'Movement and Performance in Iron Age and Roman Southern Britain'. Paper presented at the 'Boundaries and Regions in Iron Age and Romano-Celtic Religions' session. European Association of Archaeologists Conference - Barcelona - 7th September 2018
+'Movement and Performance in Iron Age and Roman Southern Britain'. Paper presented at the 'Boundaries and Regions in Iron Age and Romano-Celtic Religions' session. European Association of Archaeologists Conference - Barcelona - 7th September 2018
 
-**Garland, N.** 'Agency and the Scale of Social Memory along the southern coast of Britannia'. Paper presented at the Theoretical Roman Archaeology Conference - Edinburgh – 14th April 2018
+'Agency and the Scale of Social Memory along the southern coast of Britannia'. Paper presented at the Theoretical Roman Archaeology Conference - Edinburgh – 14th April 2018
+
+### 2017
+
+With Davidson, L.‘Experiencing oppida: understanding linear earthwork systems at Camulodunum’. Poster presented at the Late Iron Age Oppida Conference - Reading – 22nd April 2017
+
+‘Movement, medicine and magic in the understanding of mortuary practice: The Doctor’s Burial at Stanway, Camulodunum’. Paper presented at the ‘Material approaches to Medicine and Magic’ session. Theoretical Roman Archaeology Conference - Durham - 31st March 2017
+
+### 2016
+
+Co-organizer (with Dr. Darrell Rohl) for session entitled ‘Theorising “Place” in (Roman) Archaeology’ for the Theoretical Roman Archaeology Conference - Rome - 16th March 2016
+
+‘Territorial Oppida and the transformation of landscape and society in south-eastern Britain’. Paper presented at the Iron Age Research Student Seminar - Leicester – 21st May 2016
+
+‘Structuration, Society and Scale: Applying practice theory to social structure’. Paper presented at ‘at the Theoretical Roman Archaeology Conference Practice Workshop - London - 30th January 2016
+
+### 2015
+
+‘Kingdoms and Tribes or Communes and Co-operatives: Discussions of social structure in Late Iron Age Territorial Oppida’. Paper presented at the Iron Age Research Student Seminar - Liverpool 11th to 14th June 2015.
+
+### 2014
+
+‘The Social Landscapes of Iron Age Britain’. Paper to be presented at ‘Iron Age Landscapes in a comparative perspective’ session for European Association of Archaeologists Conference – Istanbul 10th to 14th September 2014
+
+### 2012
+
+‘Ritual Landscapes of Pre-Roman Britain: The Margins of Practice on the Margins of the Empire.’ Paper presented at ‘Roman Archaeology on the Margins’ session at the Theoretical Roman Archaeology Conference - Frankfurt - 29th March to 1st April 2012
+
+### 2011
+
+Garland, N. ‘Settlement Boundaries: The examination of social change in the Late Iron Age - Roman transition’. Paper presented at general session of the Theoretical Roman Archaeology Conference - Newcastle 14th to 17th April 2011.
+
+### 2010
+
+Co-organiser for session entitled ‘Theorising city landscapes: boundaries and place in urban space’ for Theoretical Archaeology Group Conference - Bristol - 17th to 19th December 2010
+
+Co-organiser for session entitled ‘Theorising city landscapes: boundaries and place in urban space’ for Theoretical Archaeology Group Conference - Bristol - 17th to 19th December 2010
 
 ------------------------------------------------------------------------
 
@@ -177,4 +213,3 @@ Landscape Archaeology Conference 2018, Newcastle and Durham, UK, conference supp
 -   [{{< fa brands github >}} GitHub](https://github.com/nickyjgarland)
 
 ------------------------------------------------------------------------
-
