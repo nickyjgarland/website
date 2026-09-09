@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Blog – Nicky Garland</title>
+<title>Key Projects – Nicky Garland</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -45,8 +43,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-9d0a61f74edd3cb6d6b4d877b384bec7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -76,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -142,7 +80,7 @@ window.Quarto = {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -173,7 +111,7 @@ window.Quarto = {
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -204,24 +142,7 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Blog</h1>
-            <p class="subtitle lead">Tutorials, insights, and reflections on data science in heritage</p>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -229,41 +150,105 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#subscribe" id="toc-subscribe" class="nav-link active" data-scroll-target="#subscribe">Subscribe</a></li>
+  <li><a href="#key-projects" id="toc-key-projects" class="nav-link active" data-scroll-target="#key-projects">Key Projects</a>
+  <ul class="collapse">
+  <li><a href="#help-the-ads-improve-dois-on-wikipedia" id="toc-help-the-ads-improve-dois-on-wikipedia" class="nav-link" data-scroll-target="#help-the-ads-improve-dois-on-wikipedia">Help the ADS Improve DOIs on Wikipedia</a></li>
+  <li><a href="#ingest---training-design-for-a-new-repository-deposit-platform" id="toc-ingest---training-design-for-a-new-repository-deposit-platform" class="nav-link" data-scroll-target="#ingest---training-design-for-a-new-repository-deposit-platform">Ingest - Training Design for a New Repository Deposit Platform</a></li>
+  <li><a href="#ads-training-portal" id="toc-ads-training-portal" class="nav-link" data-scroll-target="#ads-training-portal">ADS Training Portal</a></li>
+  <li><a href="#atrium-transnational-access-training-schools" id="toc-atrium-transnational-access-training-schools" class="nav-link" data-scroll-target="#atrium-transnational-access-training-schools">ATRIUM Transnational Access Training Schools</a></li>
+  <li><a href="#library-carpentry-intro-to-r" id="toc-library-carpentry-intro-to-r" class="nav-link" data-scroll-target="#library-carpentry-intro-to-r">Library Carpentry: Intro to R</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/nickyjgarland/website/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Key Projects</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<p>Welcome to my blog! Here I share tutorials, reflections, and insights on data science, digital heritage, and research methods. Topics include:</p>
+</header>
+
+
+<section id="key-projects" class="level1">
+<h1>Key Projects</h1>
+<p>A selection of projects reflecting my work in training design, learning experience, and open research infrastructure.</p>
+<section id="help-the-ads-improve-dois-on-wikipedia" class="level2">
+<h2 class="anchored" data-anchor-id="help-the-ads-improve-dois-on-wikipedia">Help the ADS Improve DOIs on Wikipedia</h2>
+<p><strong>Collaboration with Wikimedia UK</strong> 2024</p>
+<p>Designed and delivered a training initiative supporting Wikimedia volunteer editors to add and correct Digital Object Identifiers (DOIs) on Wikipedia articles, improving the discoverability of, and access to, ADS archaeological collections.</p>
 <ul>
-<li><strong>R tutorials</strong> for heritage researchers</li>
-<li><strong>Spatial analysis</strong> techniques and workflows</li>
-<li><strong>Research data management</strong> best practices</li>
-<li><strong>Open Science</strong> and reproducible research</li>
-<li><strong>Teaching</strong> reflections and pedagogical approaches</li>
-<li><strong>Digital archaeology</strong> methods and tools</li>
+<li>Worked directly within an existing volunteer community’s own workflows and editing practices, rather than delivering a standalone course</li>
+<li>Gave first-hand insight into how Wikimedia’s global volunteer community learns, contributes, and organises around shared editing standards</li>
+<li><a href="https://outreachdashboard.wmflabs.org/courses/Archaeology_Data_Service/Help_the_ADS_improve_DOIs_on_Wikipedia">View the project on Wikimedia’s Outreach Dashboard →</a></li>
 </ul>
 <hr>
-<section id="subscribe" class="level2">
-<h2 class="anchored" data-anchor-id="subscribe">Subscribe</h2>
-<p>Want to stay updated? <a href="mailto:nickyjgarland@gmail.com"><i class="fa-solid fa-envelope" aria-label="envelope"></i> Email me</a> to be notified of new posts, or follow me on <a href="https://github.com/nickyjgarland"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</a> for code updates.</p>
-
+</section>
+<section id="ingest---training-design-for-a-new-repository-deposit-platform" class="level2">
+<h2 class="anchored" data-anchor-id="ingest---training-design-for-a-new-repository-deposit-platform">Ingest - Training Design for a New Repository Deposit Platform</h2>
+<p><strong>Archaeology Data Service, University of York</strong> 2025-Ongoing</p>
+<p>Led an evidence-based, iterative approach to training design for a new digital repository deposit platform, Ingest, from initial development through to a live second phase of delivery.</p>
+<ul>
+<li>Embedded a formal training needs assessment directly into the platform’s user testing process, ahead of development</li>
+<li>Designed and delivered two phases of training, combining live sessions, self-paced guidance, and written documentation</li>
+<li>Evaluated the impact of training provision using a Qualtrics survey and analysis of helpdesk support requests, surfacing needs that hadn’t surfaced through self-reported feedback alone</li>
+<li>Designed and developed <a href="https://uoy-ads.github.io/ads-ingest-documentation/">extensive online guidance document</a>, published using Material for MKDocs.</li>
+</ul>
+<hr>
+</section>
+<section id="ads-training-portal" class="level2">
+<h2 class="anchored" data-anchor-id="ads-training-portal">ADS Training Portal</h2>
+<p><strong>Modelled on DARIAH-Campus</strong> 2025- Ongoing</p>
+<p>Designed and built the <a href="https://archaeologydataservice.ac.uk/help-guidance/oer/">ADS Training Portal</a> to extend the reach of training resources beyond live sessions. The portal hosts self-paced resources, guidance, and documentation for professional and research communities engaging with archaeological and heritage data.</p>
+<ul>
+<li><a href="https://archaeologydataservice.ac.uk/help-guidance/oer/">Explore the ADS Training Portal →</a></li>
+</ul>
+<p>Some recent examples of resources:</p>
+<ul>
+<li>Nicky Garland (2026) Open Licensing for Heritage Data: A guide for ADS and HSDS depositors. <a href="https://doi.org/10.5284/7z1y-dx37" class="uri">https://doi.org/10.5284/7z1y-dx37</a></li>
+<li>Nicky Garland (2026) Data Management for Archaeological Researchers <a href="https://doi.org/10.5284/MZXZ-7H40" class="uri">https://doi.org/10.5284/MZXZ-7H40</a></li>
+</ul>
+<hr>
+</section>
+<section id="atrium-transnational-access-training-schools" class="level2">
+<h2 class="anchored" data-anchor-id="atrium-transnational-access-training-schools">ATRIUM Transnational Access Training Schools</h2>
+<p><strong>Horizon Europe research infrastructure project</strong> 2024 - Ongoing</p>
+<p>Lead the Transnational Access work package for <a href="https://atrium-research.eu/">ATRIUM</a>, coordinating international participant placements and designing training schools for global cohorts of researchers visiting the ADS.</p>
+<ul>
+<li>Facilitated 130+ international participant placements</li>
+<li>Designed and delivered two week-long training schools for international cohorts, covering open research practices, digital preservation and digital heritage.</li>
+</ul>
+<hr>
+</section>
+<section id="library-carpentry-intro-to-r" class="level2">
+<h2 class="anchored" data-anchor-id="library-carpentry-intro-to-r">Library Carpentry: Intro to R</h2>
+<p><strong>The Carpentries</strong> 2025 - Ongoing</p>
+<p>Qualified Instructor and lesson maintainer for the Library Carpentry Introduction to R lesson.</p>
+<ul>
+<li>Contribute to maintaining and updating open, peer-reviewed teaching materials used by instructors worldwide</li>
+<li>Teach reproducible research and programming skills using a learn-by-doing pedagogy designed for non-technical audiences</li>
+</ul>
+<hr>
+<p><a href="index.html">← Back to Home</a></p>
 
 
 </section>
+</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
