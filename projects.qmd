@@ -1,0 +1,71 @@
+---
+title: "Key Projects"
+---
+
+# Key Projects
+
+A selection of projects reflecting my work in training design, learning experience, and open research infrastructure.
+
+## Help the ADS Improve DOIs on Wikipedia
+
+**Collaboration with Wikimedia UK** 2024
+
+Designed and delivered a training initiative supporting Wikimedia volunteer editors to add and correct Digital Object Identifiers (DOIs) on Wikipedia articles, improving the discoverability of, and access to, ADS archaeological collections.
+
+-   Worked directly within an existing volunteer community's own workflows and editing practices, rather than delivering a standalone course
+-   Gave first-hand insight into how Wikimedia's global volunteer community learns, contributes, and organises around shared editing standards
+-   [View the project on Wikimedia's Outreach Dashboard →](https://outreachdashboard.wmflabs.org/courses/Archaeology_Data_Service/Help_the_ADS_improve_DOIs_on_Wikipedia)
+
+------------------------------------------------------------------------
+
+## Ingest - Training Design for a New Repository Deposit Platform
+
+**Archaeology Data Service, University of York** 2025-Ongoing
+
+Led an evidence-based, iterative approach to training design for a new digital repository deposit platform, Ingest, from initial development through to a live second phase of delivery.
+
+-   Embedded a formal training needs assessment directly into the platform's user testing process, ahead of development
+-   Designed and delivered two phases of training, combining live sessions, self-paced guidance, and written documentation
+-   Evaluated the impact of training provision using a Qualtrics survey and analysis of helpdesk support requests, surfacing needs that hadn't surfaced through self-reported feedback alone
+-   Designed and developed [extensive online guidance document](https://uoy-ads.github.io/ads-ingest-documentation/), published using Material for MKDocs.
+
+------------------------------------------------------------------------
+
+## ADS Training Portal
+
+**Modelled on DARIAH-Campus** 2025- Ongoing
+
+Designed and built the [ADS Training Portal](https://archaeologydataservice.ac.uk/help-guidance/oer/) to extend the reach of training resources beyond live sessions. The portal hosts self-paced resources, guidance, and documentation for professional and research communities engaging with archaeological and heritage data.
+
+-   [Explore the ADS Training Portal →](https://archaeologydataservice.ac.uk/help-guidance/oer/)
+
+Some recent examples of resources:
+
+-   Nicky Garland (2026) Open Licensing for Heritage Data: A guide for ADS and HSDS depositors. <https://doi.org/10.5284/7z1y-dx37>
+-   Nicky Garland (2026) Data Management for Archaeological Researchers <https://doi.org/10.5284/MZXZ-7H40>
+
+------------------------------------------------------------------------
+
+## ATRIUM Transnational Access Training Schools
+
+**Horizon Europe research infrastructure project** 2024 - Ongoing
+
+Lead the Transnational Access work package for [ATRIUM](https://atrium-research.eu/), coordinating international participant placements and designing training schools for global cohorts of researchers visiting the ADS.
+
+-   Facilitated 130+ international participant placements
+-   Designed and delivered two week-long training schools for international cohorts, covering open research practices, digital preservation and digital heritage.
+
+------------------------------------------------------------------------
+
+## Library Carpentry: Intro to R
+
+**The Carpentries** 2025 - Ongoing
+
+Qualified Instructor and lesson maintainer for the Library Carpentry Introduction to R lesson.
+
+-   Contribute to maintaining and updating open, peer-reviewed teaching materials used by instructors worldwide
+-   Teach reproducible research and programming skills using a learn-by-doing pedagogy designed for non-technical audiences
+
+------------------------------------------------------------------------
+
+[← Back to Home](index.html)
