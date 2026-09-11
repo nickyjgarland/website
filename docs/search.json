@@ -186,42 +186,49 @@
     "href": "projects.html",
     "title": "Key Projects",
     "section": "",
-    "text": "A selection of projects reflecting my work in training design, learning experience, and open research infrastructure.\n\n\nCollaboration with Wikimedia UK 2024\nDesigned and delivered a training initiative supporting Wikimedia volunteer editors to add and correct Digital Object Identifiers (DOIs) on Wikipedia articles, improving the discoverability of, and access to, ADS archaeological collections.\n\nWorked directly within an existing volunteer community’s own workflows and editing practices, rather than delivering a standalone course\nGave first-hand insight into how Wikimedia’s global volunteer community learns, contributes, and organises around shared editing standards\nView the project on Wikimedia’s Outreach Dashboard →\n\n\n\n\n\nArchaeology Data Service, University of York 2025-Ongoing\nLed an evidence-based, iterative approach to training design for a new digital repository deposit platform, Ingest, from initial development through to a live second phase of delivery.\n\nEmbedded a formal training needs assessment directly into the platform’s user testing process, ahead of development\nDesigned and delivered two phases of training, combining live sessions, self-paced guidance, and written documentation\nEvaluated the impact of training provision using a Qualtrics survey and analysis of helpdesk support requests, surfacing needs that hadn’t surfaced through self-reported feedback alone\nDesigned and developed extensive online guidance document, published using Material for MKDocs.\n\n\n\n\n\nModelled on DARIAH-Campus 2025- Ongoing\nDesigned and built the ADS Training Portal to extend the reach of training resources beyond live sessions. The portal hosts self-paced resources, guidance, and documentation for professional and research communities engaging with archaeological and heritage data.\n\nExplore the ADS Training Portal →\n\nSome recent examples of resources:\n\nNicky Garland (2026) Open Licensing for Heritage Data: A guide for ADS and HSDS depositors. https://doi.org/10.5284/7z1y-dx37\nNicky Garland (2026) Data Management for Archaeological Researchers https://doi.org/10.5284/MZXZ-7H40\n\n\n\n\n\nHorizon Europe research infrastructure project 2024 - Ongoing\nLead the Transnational Access work package for ATRIUM, coordinating international participant placements and designing training schools for global cohorts of researchers visiting the ADS.\n\nFacilitated 130+ international participant placements\nDesigned and delivered two week-long training schools for international cohorts, covering open research practices, digital preservation and digital heritage.\n\n\n\n\n\nThe Carpentries 2025 - Ongoing\nQualified Instructor and lesson maintainer for the Library Carpentry Introduction to R lesson.\n\nContribute to maintaining and updating open, peer-reviewed teaching materials used by instructors worldwide\nTeach reproducible research and programming skills using a learn-by-doing pedagogy designed for non-technical audiences\n\n\n← Back to Home"
+    "text": "A selection of projects reflecting my work in training design, learning experience, and open research infrastructure."
   },
   {
     "objectID": "projects.html#help-the-ads-improve-dois-on-wikipedia",
     "href": "projects.html#help-the-ads-improve-dois-on-wikipedia",
     "title": "Key Projects",
-    "section": "",
-    "text": "Collaboration with Wikimedia UK 2024\nDesigned and delivered a training initiative supporting Wikimedia volunteer editors to add and correct Digital Object Identifiers (DOIs) on Wikipedia articles, improving the discoverability of, and access to, ADS archaeological collections.\n\nWorked directly within an existing volunteer community’s own workflows and editing practices, rather than delivering a standalone course\nGave first-hand insight into how Wikimedia’s global volunteer community learns, contributes, and organises around shared editing standards\nView the project on Wikimedia’s Outreach Dashboard →"
+    "section": "Help the ADS Improve DOIs on Wikipedia",
+    "text": "Help the ADS Improve DOIs on Wikipedia\nCollaboration with Wikimedia UK 2024\nDesigned and delivered a training initiative supporting Wikimedia volunteer editors to add and correct Digital Object Identifiers (DOIs) on Wikipedia articles, improving the discoverability of, and access to, ADS archaeological collections.\n\nWorked directly within an existing volunteer community’s own workflows and editing practices, rather than delivering a standalone course\nGave first-hand insight into how Wikimedia’s global volunteer community learns, contributes, and organises around shared editing standards\nView the project on Wikimedia’s Outreach Dashboard →"
   },
   {
     "objectID": "projects.html#ingest---training-design-for-a-new-repository-deposit-platform",
     "href": "projects.html#ingest---training-design-for-a-new-repository-deposit-platform",
     "title": "Key Projects",
-    "section": "",
-    "text": "Archaeology Data Service, University of York 2025-Ongoing\nLed an evidence-based, iterative approach to training design for a new digital repository deposit platform, Ingest, from initial development through to a live second phase of delivery.\n\nEmbedded a formal training needs assessment directly into the platform’s user testing process, ahead of development\nDesigned and delivered two phases of training, combining live sessions, self-paced guidance, and written documentation\nEvaluated the impact of training provision using a Qualtrics survey and analysis of helpdesk support requests, surfacing needs that hadn’t surfaced through self-reported feedback alone\nDesigned and developed extensive online guidance document, published using Material for MKDocs."
+    "section": "Ingest - Training Design for a New Repository Deposit Platform",
+    "text": "Ingest - Training Design for a New Repository Deposit Platform\nArchaeology Data Service, University of York 2025-Ongoing\nLed an evidence-based, iterative approach to training design for a new digital repository deposit platform, Ingest, from initial development through to a live second phase of delivery.\n\nEmbedded a formal training needs assessment directly into the platform’s user testing process, ahead of development\nDesigned and delivered two phases of training, combining live sessions, self-paced guidance, and written documentation\nEvaluated the impact of training provision using a Qualtrics survey and analysis of helpdesk support requests, surfacing needs that hadn’t surfaced through self-reported feedback alone\nDesigned and developed extensive online guidance document, published using Material for MKDocs."
   },
   {
     "objectID": "projects.html#ads-training-portal",
     "href": "projects.html#ads-training-portal",
     "title": "Key Projects",
-    "section": "",
-    "text": "Modelled on DARIAH-Campus 2025- Ongoing\nDesigned and built the ADS Training Portal to extend the reach of training resources beyond live sessions. The portal hosts self-paced resources, guidance, and documentation for professional and research communities engaging with archaeological and heritage data.\n\nExplore the ADS Training Portal →\n\nSome recent examples of resources:\n\nNicky Garland (2026) Open Licensing for Heritage Data: A guide for ADS and HSDS depositors. https://doi.org/10.5284/7z1y-dx37\nNicky Garland (2026) Data Management for Archaeological Researchers https://doi.org/10.5284/MZXZ-7H40"
+    "section": "ADS Training Portal",
+    "text": "ADS Training Portal\nModelled on DARIAH-Campus 2025- Ongoing\nDesigned and built the ADS Training Portal to extend the reach of training resources beyond live sessions. The portal hosts self-paced resources, guidance, and documentation for professional and research communities engaging with archaeological and heritage data.\n\nExplore the ADS Training Portal →\n\nSome recent examples of resources:\n\nNicky Garland (2026) Open Licensing for Heritage Data: A guide for ADS and HSDS depositors. https://doi.org/10.5284/7z1y-dx37\nNicky Garland (2026) Data Management for Archaeological Researchers https://doi.org/10.5284/MZXZ-7H40"
   },
   {
     "objectID": "projects.html#atrium-transnational-access-training-schools",
     "href": "projects.html#atrium-transnational-access-training-schools",
     "title": "Key Projects",
-    "section": "",
-    "text": "Horizon Europe research infrastructure project 2024 - Ongoing\nLead the Transnational Access work package for ATRIUM, coordinating international participant placements and designing training schools for global cohorts of researchers visiting the ADS.\n\nFacilitated 130+ international participant placements\nDesigned and delivered two week-long training schools for international cohorts, covering open research practices, digital preservation and digital heritage."
+    "section": "ATRIUM Transnational Access Training Schools",
+    "text": "ATRIUM Transnational Access Training Schools\nHorizon Europe research infrastructure project 2024 - Ongoing\nLead the Transnational Access work package for ATRIUM, coordinating international participant placements and designing training schools for global cohorts of researchers visiting the ADS.\n\nFacilitated 130+ international participant placements\nDesigned and delivered two week-long training schools for international cohorts, covering open research practices, digital preservation and digital heritage."
+  },
+  {
+    "objectID": "projects.html#british-international-research-institute-biri-training-programme",
+    "href": "projects.html#british-international-research-institute-biri-training-programme",
+    "title": "Key Projects",
+    "section": "British International Research Institute (BIRI) Training Programme",
+    "text": "British International Research Institute (BIRI) Training Programme\nThe British Academy 2024 - 2027\nA bespoke online training series for BIRI staff from across Europe, Middle East and N. Africa. High satisfaction with the training led to two extensions into 2027.Training sessions included:\n\ndata management\ndigital preservation\ndata stewardship\ndigital skills"
   },
   {
     "objectID": "projects.html#library-carpentry-intro-to-r",
     "href": "projects.html#library-carpentry-intro-to-r",
     "title": "Key Projects",
-    "section": "",
-    "text": "The Carpentries 2025 - Ongoing\nQualified Instructor and lesson maintainer for the Library Carpentry Introduction to R lesson.\n\nContribute to maintaining and updating open, peer-reviewed teaching materials used by instructors worldwide\nTeach reproducible research and programming skills using a learn-by-doing pedagogy designed for non-technical audiences\n\n\n← Back to Home"
+    "section": "Library Carpentry: Intro to R",
+    "text": "Library Carpentry: Intro to R\nThe Carpentries 2025 - Ongoing\nQualified Instructor and lesson maintainer for the Library Carpentry Introduction to R lesson.\n\nContribute to maintaining and updating open, peer-reviewed teaching materials used by instructors worldwide\nTeach reproducible research and programming skills using a learn-by-doing pedagogy designed for non-technical audiences\n\n\n← Back to Home"
   },
   {
     "objectID": "skills.html",

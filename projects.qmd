@@ -2,8 +2,6 @@
 title: "Key Projects"
 ---
 
-# Key Projects
-
 A selection of projects reflecting my work in training design, learning experience, and open research infrastructure.
 
 ## Help the ADS Improve DOIs on Wikipedia
@@ -54,6 +52,19 @@ Lead the Transnational Access work package for [ATRIUM](https://atrium-research.
 
 -   Facilitated 130+ international participant placements
 -   Designed and delivered two week-long training schools for international cohorts, covering open research practices, digital preservation and digital heritage.
+
+------------------------------------------------------------------------
+
+## British International Research Institute (BIRI) Training Programme
+
+**The British Academy** 2024 - 2027
+
+A bespoke online training series for BIRI staff from across Europe, Middle East and N. Africa. High satisfaction with the training led to two extensions into 2027.Training sessions included:
+
+-   data management
+-   digital preservation
+-   data stewardship
+-   digital skills
 
 ------------------------------------------------------------------------
 
